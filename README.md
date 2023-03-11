@@ -4,7 +4,7 @@ Author: Tianhao Yao
 Instructor: Professor Gunwha Oh
 <br>
 
-
+[link to final essay](./Final_Essay.md)
 # Lab 1
 
 In lab 1, our task is to map the flow within Seattle. Our group decided to map the flow of international student attending UW from winter 2021 to autumn 2022.
