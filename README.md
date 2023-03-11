@@ -1,11 +1,13 @@
-# GEOG 495 Visualizing Seattle
-### Author: Tianhao Yao
-### Instructor: Professor Gunwha Oh
+# <b>GEOG 495 Visualizing Seattle</b>
+<p>
+Author: Tianhao Yao
+Instructor: Professor Gunwha Oh
+</p>
 <br>
 
 
-## Lab 1
-<P>
+# Lab 1
+
 In lab 1, our task is to map the flow within Seattle. Our group decided to map the flow of international student attending UW from winter 2021 to autumn 2022.
 
 ![flow chart diagram](static/flow-chart.png)
@@ -36,7 +38,7 @@ fig = go.Figure(data=[go.Sankey(
 ```
 <br>
 
-## Lab 2
+# Lab 2
 
 In lab 2, our group decided to study what people enjoy doing and sharing their experience at Greenlake Seattle. We choce the topic of Restaurant.
 
@@ -56,7 +58,7 @@ Here is an exmaple of the JSON data formate that we extracted.
         {"value": 4.5, "name": "After hearing such good reviews I was pleasantly surprised that this food lives up to its reputation. The veggie platter was particularly amazing for..."}]}]}
 ```
 
-## Lab 3
+# Lab 3
 
 In lab three, our group visualized the traffic condition recorded from the I-5 southbound on Feb 9th, 2023. We extracted top 10 dominant color from 30 images taken at the 50th st. intersecting the I-5 south high way. The dark color represent the color extracted from the vehicle. The light gray color represent the road. With the percentage comparison, we can visualize the change in traffic flow.
 
@@ -68,7 +70,7 @@ Here is an example of the processed image with Pillow library in Python
 
 
 
-## Lab 4
+# Lab 4
 
 Lab four provides insights into the happy life characteristics of Seattle. The fictional characters visited different places in Seattle, and the majority of them felt happy and positive about their experiences. Among these locations, UW IMA was the most frequently visited, and all of the characters felt positive when they visited.
 
