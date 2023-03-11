@@ -1,8 +1,7 @@
 # <b>GEOG 495 Visualizing Seattle</b>
-<p>
 Author: Tianhao Yao
+<br>
 Instructor: Professor Gunwha Oh
-</p>
 <br>
 
 
@@ -12,7 +11,7 @@ In lab 1, our task is to map the flow within Seattle. Our group decided to map t
 
 ![flow chart diagram](static/flow-chart.png)
 
-Looking at the graph, we can see that China and India composed majority of the international students. Regarding the overall population, the pandic did affect the student attending UW between 2020 to 2022.
+Looking at the graph, we can see that China and India composed the majority of international students. Regarding the overall population, the pandemic did affect the student attending UW between 2020 to 2022.
 
 We have used plotly to generate the flow chart.
 
@@ -44,7 +43,7 @@ In lab 2, our group decided to study what people enjoy doing and sharing their e
 
 ![radio dendropgram](static/radio-dendropgram.jpeg)
 
-We randomly selected 10 restaurants at Greenlake and extracted customer reviews from Yelp API. The dot size represent their review value. Majority of the reviews are scored 4.5 or higher. 
+We randomly selected 10 restaurants at Greenlake and extracted customer reviews from Yelp API. The dot size represents their review value. The majority of the reviews scored 4.5 or higher. 
 
 Here is an exmaple of the JSON data formate that we extracted. 
 
@@ -60,7 +59,7 @@ Here is an exmaple of the JSON data formate that we extracted.
 
 # Lab 3
 
-In lab three, our group visualized the traffic condition recorded from the I-5 southbound on Feb 9th, 2023. We extracted top 10 dominant color from 30 images taken at the 50th st. intersecting the I-5 south high way. The dark color represent the color extracted from the vehicle. The light gray color represent the road. With the percentage comparison, we can visualize the change in traffic flow.
+In lab three, our group visualized the traffic condition recorded from the I-5 southbound on Feb 9th, 2023. We extracted the top 10 dominant colors from 30 images taken at the 50th st. intersecting the I-5 south highway. The darker color represents the color extracted from the vehicle. The light grey color represents the road. With the percentage comparison, we can visualize the change in traffic flow.
 
 ![stacked_bar_chart](static/stacked_bar_chart.png)
 
